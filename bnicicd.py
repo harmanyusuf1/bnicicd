@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 
-print("hello world")'
+print("hello world")
 print ("testing CICD BNI")
 
 response = requests.get("https://www.google.com")
